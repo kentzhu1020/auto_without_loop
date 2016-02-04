@@ -1,0 +1,7 @@
+ID,TestSuite,ToBeExecuted,Application
+1,testSuite_smoke,yes,MyApp
+2,testSuite_module_A,yes,MyApp
+3,testSuite_module_B,,MyApp
+4,testSuite_integration,,MyApp
+5,testSuite_E2E,,MyApp
+5,testSuite_compatibility_safari,,MyApp
